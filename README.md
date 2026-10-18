@@ -1,4 +1,4 @@
-# 📊 Data Science Projects Portfolio
+# 📊 Machine Learning Projects Portfolio
 
 Welcome to my **Data Science Projects Repository** 👋
 This repository contains **10 end-to-end Data Science and Machine Learning projects** covering classification, regression, NLP, clustering, recommendation systems, and healthcare analytics.
